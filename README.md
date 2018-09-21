@@ -1,5 +1,10 @@
 # Linear and Non-Linear Classification of Text by Subject
 
+Project 3 for Comp 551, Fall 16 at McGill University
+
+Kaggle Team : Poco a Poco
+
+
 ## Introduction
 
 The project evaluates the performance of linear and nonlinear classifiers in the categorization of abstracts from technical papers.
