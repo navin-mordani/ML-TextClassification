@@ -1,6 +1,6 @@
 # Linear and Non-Linear Classification of Text by Subject
 
-Project 3 for Comp 551, Fall 16 at McGill University
+Project 2 for Comp 551, Fall 16 at McGill University
 
 Kaggle Team : Poco a Poco
 
