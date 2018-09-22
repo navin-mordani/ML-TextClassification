@@ -23,7 +23,7 @@ The ipython notebooks for different implementations of SVM along with the featur
 ### Naive Bayes
 The code for multinomial as well as bernouilli naive Bayes can be found in [code/NaiveBayes](code/NaiveBayes/)
 
-###KNN
+### KNN
 The code for KNN is present in [code/KNN/](code/KNN/)
 
 ## Details
